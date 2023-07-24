@@ -1,7 +1,13 @@
 # Photoshop For Linux Users
 This is offline version of [photopea](https://www.photopea.com/), you can download single file `.appimage` and run it linux operating system. 
 
-Download appimage: https://drive.google.com/file/d/1oJPrgEp9gb6wE04q_IyN5LqEApFe51M3/view?usp=sharing
+# How to use? 
+> Download this appimage: [photopeapffline.appImage](https://drive.google.com/file/d/1oJPrgEp9gb6wE04q_IyN5LqEApFe51M3/view?usp=sharing)
+
+> Run this `PhotopeaOffline.AppImage`
+
+> Enjoy!
+
 
 # Why I made this
 The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I make it for my personal uses and share it on this community. If you have any complaint then please feel free to contact needyamin@gmail.com

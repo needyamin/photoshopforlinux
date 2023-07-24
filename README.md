@@ -9,7 +9,7 @@ Download appimage: https://drive.google.com/file/d/1oJPrgEp9gb6wE04q_IyN5LqEApFe
 - This app run on ARCH x86_64 machine
 - Appimage supported all linux operating system
 - Thanks to phpdesktop https://github.com/cztomczak/phpdesktop
-- Thanks to https://github.com/suzuke/photopea](https://github.com/santosguerra/Photopea-Offline
+- Thanks to https://github.com/santosguerra/Photopea-Offline
 
 
 

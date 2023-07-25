@@ -27,7 +27,7 @@ def show_message():
     show_custom_message(title, message)
     
 def download():
-	url= 'https://www.ansnew.com/'
+	url= 'https://drive.google.com/file/d/1oJPrgEp9gb6wE04q_IyN5LqEApFe51M3/view?usp=sharing'
 	webbrowser.open_new_tab(url)
 
 message_button = tk.Button(root, text="Download Photopea", command=download)
@@ -35,8 +35,5 @@ message_button.pack(pady=15)
 
 message_button = tk.Button(root, text="About This Software", command=show_message)
 message_button.pack(pady=15)
-
-
-
 
 root.mainloop()

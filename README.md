@@ -13,8 +13,9 @@ This is offline version of [photopea](https://www.photopea.com/), you can downlo
 The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I make it for my personal uses and share it on this community. If you have any complaint then please feel free to contact needyamin@gmail.com
 
 # Appimage Specification
-- This app run on ARCH x86_64 machine
-- Appimage supported all linux operating system
+- This app is architecture x86_64 base
+- Appimage supported linux (Ubuntu) machine
+- This app is web browser (chrome) base application
 - Thanks to phpdesktop https://github.com/cztomczak/phpdesktop
 - Thanks to https://github.com/santosguerra/Photopea-Offline
 

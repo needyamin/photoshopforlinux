@@ -30,6 +30,7 @@ Read More About Testing your AppImage https://docs.appimage.org/packaging-guide/
 - This app is web browser (chrome) base application
 - Technology use: phpdesktop https://github.com/cztomczak/phpdesktop
 - Technology use: https://github.com/santosguerra/Photopea-Offline
+  
 Thanks to photopea team, phpdesktop members and Photopea-Offline team members for create this amazing application.
 
 # Why I made this

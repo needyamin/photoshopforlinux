@@ -31,7 +31,7 @@ Read More About Testing your AppImage https://docs.appimage.org/packaging-guide/
 - Technology use: phpdesktop https://github.com/cztomczak/phpdesktop
 - Technology use: https://github.com/santosguerra/Photopea-Offline
   
-Thanks to photopea team, phpdesktop members and Photopea-Offline team members for create this amazing application.
+Thanks to `photopea` team, `phpdesktop` members and `photopea-offline` team members for create this amazing application.
 
 # Why I made this
 The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I make it for my personal uses and share it on this community. If you have any complaint then please feel free to contact needyamin@gmail.com

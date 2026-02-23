@@ -34,6 +34,6 @@ Read More About Testing your AppImage https://docs.appimage.org/packaging-guide/
 Thanks to `photopea` team, `phpdesktop` members and `photopea-offline` team members for create this amazing application.
 
 # Why I made this
-The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I make it for my personal uses and share it on this community. If you have any complaint then please feel free to contact needyamin@gmail.com
+The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I make it for my personal uses and share it on this community.
 
 ![splashScreen2](https://github.com/needyamin/photoshopforlinux/assets/16277392/5d2be690-80ad-4e2b-a4fe-840cf0c331d5)
